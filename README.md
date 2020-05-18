@@ -1,2 +1,2 @@
 # Lib_bots
-Alguns comandos basicos para criação de bots
+Alguns comandos basicos para criação de bots.
